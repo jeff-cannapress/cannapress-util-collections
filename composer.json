@@ -1,0 +1,17 @@
+{
+    "name": "cannapress/util-collections",
+    "description": "A library of support functions for wordpress",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CannaPress\\Util\\Collections\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jeff-cannapress",
+            "email": "jeff@cannapress.tech"
+        }
+    ]
+}
